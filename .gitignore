@@ -1,0 +1,5 @@
+*.o
+seqgend
+seqgend-db
+seqgend-seed
+seqgend.tar.xz
